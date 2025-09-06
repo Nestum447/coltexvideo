@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coltexvideo/static/css/main.8f7bf46e.css",
+    "main.js": "/coltexvideo/static/js/main.033538e5.js",
+    "index.html": "/coltexvideo/index.html",
+    "main.8f7bf46e.css.map": "/coltexvideo/static/css/main.8f7bf46e.css.map",
+    "main.033538e5.js.map": "/coltexvideo/static/js/main.033538e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f7bf46e.css",
+    "static/js/main.033538e5.js"
+  ]
+}
